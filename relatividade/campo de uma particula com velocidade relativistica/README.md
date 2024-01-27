@@ -48,7 +48,7 @@ ax.set_xlim(0,np.pi/2)
 plt.show()
 ```
 
-![Figura 1|480](../images/campo_relativistico_(1).png)
+![Figura 1|480](../../images/campo_relativistico_(1).png)
 
 ---
 #### Coordenadas Polares
@@ -61,4 +61,4 @@ plt.show()
 ```
 
 
-![Figura 2|400](../images/campo_relativistico_(2).png)
+![Figura 2|400](../../images/campo_relativistico_(2).png)
